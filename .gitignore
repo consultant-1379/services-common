@@ -1,0 +1,8 @@
+/.settings
+/.pmd
+/target
+/.classpath
+/.project
+/.idea
+/.iml
+velocity.log
